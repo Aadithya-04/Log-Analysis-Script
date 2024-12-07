@@ -87,7 +87,7 @@ The log file is expected to be in a standard format where each line contains:
 
 1. **Run the Script**:
    ```bash
-   python log_analysis.py
+   python script.py
 
 2. **View the Output**:
     The results are displayed on the console.
